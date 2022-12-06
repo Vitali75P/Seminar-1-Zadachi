@@ -1,4 +1,4 @@
-﻿Console.WriteLine("А сегодня выходной?");
+Console.WriteLine("А сегодня выходной?");
 //string day = Console.ReadLine(); 
 int number = int.Parse(Console.ReadLine());
 
