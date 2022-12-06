@@ -5,3 +5,4 @@ if (N < 100)
 Console.WriteLine("Третьей цифры нет!");
 else
 Console.WriteLine(str[2]);
+//
