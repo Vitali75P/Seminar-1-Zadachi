@@ -5,4 +5,4 @@ int N = int.Parse(Console.ReadLine()!);
 Console.WriteLine($"Таблица кубов от 1 до {N}");
 for (int i = 1; i <= N; i++)
 Console.Write($"{i * i * i}, ");
-/
+
