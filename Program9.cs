@@ -13,3 +13,4 @@ double ab = Math.Pow(bx - ax, 2) + Math.Pow(by - ay, 2) + Math.Pow(bz - az, 2);
 ab = Math.Sqrt(ab);
 ab = Math.Round(ab, 2);
 System.Console.WriteLine($"Расстояние между точками  в 3D пространстве {ab} !");
+//
