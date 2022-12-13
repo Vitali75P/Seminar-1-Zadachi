@@ -21,3 +21,4 @@ string GetArrayAsString(int[] array)
     return result;
 }
 Console.WriteLine($"[{GetArrayAsString(GetArray(8))}]");
+//
