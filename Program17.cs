@@ -15,3 +15,4 @@ int GetPositivNumbers(int[] array)
     return result;
 }
 Console.WriteLine($"Чисел больше 0:  {GetPositivNumbers(array)} !");
+//
