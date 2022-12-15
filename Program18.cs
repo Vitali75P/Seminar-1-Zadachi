@@ -9,3 +9,4 @@ double k2 = double.Parse(Console.ReadLine()!);
 double x = (b1 - b2) / (k1 - k2);
 double y = (k2*b1-k1*b2)/(k2-k1);
 Console.Write($"Точка пересечения заданных прямых: ({x}; {y})");
+//
