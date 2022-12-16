@@ -35,3 +35,4 @@ foreach (double elem in summ)
 
     Console.Write($"{elem / m}  "); 
 }
+//
