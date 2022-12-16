@@ -42,3 +42,4 @@ void FullArray (double[,] matr)
 GetArray(array);
 Console.WriteLine();
 FullArray(array);
+//
